@@ -3,7 +3,7 @@
         <title>SVHS Drama</title>
     </head>
     <body>
-        bgColor="#6B6B6B"
+        bgColor="#A9A9A9"
         <h1>SVHS Drama Manager</h1>
         <hr>
         <br>
