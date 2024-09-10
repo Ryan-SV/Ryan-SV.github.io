@@ -3,6 +3,7 @@
         <title>SVHS Drama</title>
     </head>
     <body>
+        <p style="background-color: Gray;"></p>
         <h1>SVHS Drama Manager</h1>
         <hr>
         <br>
