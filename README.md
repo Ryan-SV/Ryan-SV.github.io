@@ -74,11 +74,9 @@
 <br>
 <h3>Contact Us</h3>
 <hr>
-        <a href"https://ryan-sv.github.io/Contact%20Us.html">
-            <button style="background-color:rgb(117, 79, 168); color:rgb(42,151,32) ">
-                Contact Us
-            </button>
-        </a>
+        <a href="http://127.0.0.1:5500/Contact%20Us.html"><button style="background-color:rgb(117, 79, 168); color:rgb(42,151,32) ">
+        Contacts
+    </button> </a>
         <!--This is how you comment-->
     </body>
 </html>
